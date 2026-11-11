@@ -1,0 +1,14 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+@source '../../../../app/Filament/**/*';
+@source '../../../../resources/views/filament/**/*';
+
+@theme {
+    --radius-xs: 0.0625rem;
+    --radius-sm: 0.0625rem;
+    --radius-md: 0.0625rem;
+    --radius-lg: 0.125rem;
+    --radius-xl: 0.125rem;
+    --radius-2xl: 0.125rem;
+    --radius-3xl: 0.125rem;
+}
